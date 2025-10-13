@@ -24,7 +24,7 @@ moectf{We1c0m3_7o_tH3_w0R1d_0f_m1sc3111aN3ous!!}
 >
 > 你费劲地爬起来，好像看到了什么信息，回过神来那人早已扬长而去，那我缺的这个道歉这块？
 
-拿到gif发现二维码，截图。
+拿到`gif`发现二维码，截图。
 
 <img src='./img/misc1.jpg'>
 
@@ -38,7 +38,7 @@ moectf{QR_C0d3s_feATUR3_eRror_c0RRECt10N}
 
 > 这是一张普通的图片，但是一个个像素看过去似乎有些蹊跷？
 
-题目已经告诉我们是图片LSB隐写，我们用zsteg检测下，但`flag`形式没有意义。
+题目已经告诉我们是图片`LSB`隐写，我们用`zsteg`检测下，但`flag`形式没有意义。
 
 ```bash
 dzc@dzc-virtual-machine:~/zsteg$ zsteg xidian.png
